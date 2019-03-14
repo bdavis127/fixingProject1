@@ -1,2 +1,2 @@
-# fixingProject1
-https://kat9513.github.io/fixingProject1/
+# Live Link:
+https://kat9513.github.io/GeoCuisine/
